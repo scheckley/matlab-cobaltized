@@ -15,3 +15,5 @@ On OS X or Linux, this should be at
 
 where ``XX`` is your MATLAB version number.
 
+Alternatively, location can be found using prefdir at the matlab command prompt.
+
